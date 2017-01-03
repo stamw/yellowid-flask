@@ -8,7 +8,7 @@ Skeleton of Kakaotalk Yellowid by Python Flask
 ## 1. 소개
 [카카오톡 옐로아이디 자동응답 API Specification](https://github.com/plusfriend/auto_reply)을 충족시키는 파이썬 구현체입니다.  
 옐로아이디 자동응답 서비스(e.g. 챗봇)를 파이썬으로 구현할 때 저장소를 포크한 후 코드를 수정하여 사용하시면 됩니다.  
-Python 3.4.5, Flask 0.12, SQLAlchemy 1.1.4를 기준으로 구현되었으며 그 외의 의존성 패키지들은 `requirement.txt`에서 확인하실 수 있습니다.
+Python 3, Flask 0.12, SQLAlchemy 1.1.4를 기준으로 구현되었으며 그 외의 의존성 패키지들은 `requirement.txt`에서 확인하실 수 있습니다.
 
 ### 상세
 - `run.py` : 서비스를 실행시킵니다. uwsgi를 사용한다면 이 파일을 module로 지정시켜야 합니다.
