@@ -5,7 +5,7 @@ class Keyboard:
     :param list home_buttons: 채팅방 입장시 반환될 버튼들입니다.
     """
     home_buttons = [
-        "홈버튼 1",
-        "홈버튼 2",
-        "홈버튼 3",
+        "홈버튼 12",
+        "홈버튼 23",
+        "홈버튼 34",
     ]
